@@ -1,24 +1,48 @@
 # Projet final
 
-## Objectif du projet 
-
 Dépôt pour la nouvelle version du projet Final D2WM. 
-L'objectif est de 
+
+### Objectif du projet
+
+Ce projet aura pour but d'intégré tous les langages et les technologies vu durant la formation.
+
+L'objectif est de développer un projet en groupe, dans une démarche Agile, d'un site web avec une partie administration. 
+Dans un premier temps vous rédigerez une étude de cas afin de définir les besoins et les différentes caractèristiques de votre programme.
+Suite a cela vous en déduirez le MCD correspondant, ainsi qu'une représentation grafique en utilisant un outils de maquettage.
 
 
+La fin du projet se termina par une présentation oral de votre programme.   
+***  
 
+##### Les langages
+- [ ] HTML
+- [ ] CSS / Sass
+- [ ] JavaScript / jQuery
+- [ ] PHP
+- [ ] SQL
+
+##### Base de donnée
+- [ ] MySQL
+- [ ] SQLite
+- [ ] Firebird
+- [ ] PostgreSQL
+
+##### Les Outils
+- [ ] PowerAMC / SQL workbench
+- [ ] Figma / Balsamiq / Cacoo
+- [ ] Agile
+- [ ] Git
 
 ## Etat d'avancement
-
-- [x] Créer le dépôt Github
+- [ ] Créer le dépôt Github
 - [ ] Créer le design du site et des différentes pages
 - [ ] Intégration du design 
 - [ ] Développement
-- [ ] Déploiement
+- [ ] Présentation
 
 ## Design 
 
-Pour le design je vais utilisé [figma](https://www.figma.com/) car c'est un outil simple à utiliser
+Pour le design vous pouvez utiliser [figma](https://www.figma.com/) car c'est un outil simple à utiliser pour collaborer rapidement
 
 - [Maquettes Figma](https://www.figma.com/file/v5V881pn487VKmSg5R7deW/ProjetFinal)
 
