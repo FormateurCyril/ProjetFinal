@@ -10,6 +10,12 @@ L'objectif est de développer un projet en groupe, dans une démarche Agile, d'u
 Dans un premier temps vous rédigerez une étude de cas afin de définir les besoins et les différentes caractèristiques de votre programme.
 Suite a cela vous en déduirez le MCD correspondant, ainsi qu'une représentation grafique en utilisant un outils de maquettage.
 
+Le développement du site devra être en lien avec les technologies vu durant la formation.
+Le site devra être versionné et commenté quelque soit le langage. 
+Vous y intégreré une base de données afin d'y renseigné les divers informations de votre MCD.
+Ils faudras prévoir un CRUD sur au moins une de vos table.
+
+Cas particulier : aucun framework CSS ne sera autorisé pour cette application 
 
 La fin du projet se termina par une présentation oral de votre programme.   
 ***  
@@ -33,7 +39,7 @@ La fin du projet se termina par une présentation oral de votre programme.
 - [ ] Agile
 - [ ] Git
 
-## Etat d'avancement
+### Etat d'avancement
 - [ ] Créer le dépôt Github
 - [ ] Créer le design du site et des différentes pages
 - [ ] Intégration du design 
